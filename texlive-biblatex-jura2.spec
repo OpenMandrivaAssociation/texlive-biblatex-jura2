@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-jura2
 Version:	64762
-Release:	1
+Release:	2
 Summary:	Citation style for the German legal profession
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-jura2
